@@ -6,6 +6,22 @@ A desktop application developed in Python that provides real-time threat detecti
 
 This security tool demonstrates advanced Python development skills by creating a professional-grade application that integrates with external security APIs to analyze potential cyber threats. The project showcases expertise in GUI development, API integration, security protocols, and user experience design.
 
+## Screenshots
+
+### Main Application Interface
+<img width="650" height="523" alt="Threat_scanner_main" src="https://github.com/user-attachments/assets/d2cca5a6-690f-41f9-aefd-6b100abf84bc" />
+*Clean, professional GUI with URL input field and comprehensive results display*
+
+### Threat Analysis Results
+<img width="650" height="523" alt="Threat_Results" src="https://github.com/user-attachments/assets/cd1b3179-9271-42d8-a2b0-5d1a60fae056" />
+*Detailed security metrics including risk scores, threat detection, and domain information*
+
+### Error Handling
+<img width="650" height="523" alt="Screenshot 2025-08-06 at 19 34 43" src="https://github.com/user-attachments/assets/3c1f0989-ba99-4846-b18e-a59c93d117a9" />
+*Robust error handling for invalid URLs, network issues, and API authentication*
+
+*Note: Screenshots should be added to a `screenshots/` folder in the project directory*
+
 ## Technical Implementation
 
 ### Core Technologies
@@ -67,5 +83,16 @@ The project followed software engineering best practices including:
 - Security-first development approach
 - Professional documentation and code organization
 - Cross-platform compatibility considerations
+
+## Installation & Setup
+
+### Prerequisites
+- Python 3.6 or higher
+- IPQualityScore API key
+
+### Quick Start
+1. Install dependencies: `pip install PyQt5 requests`
+2. Set API key: `export IPQS_API_KEY="your_api_key_here"`
+3. Run application: `python app.py`
 
 This project showcases advanced Python development capabilities, security domain knowledge, and the ability to create professional-grade applications that solve real-world cybersecurity challenges. 
