@@ -23,8 +23,6 @@ This security tool demonstrates advanced Python development skills by creating a
 
 *Robust error handling for invalid URLs, network issues, and API authentication*
 
-*Note: Screenshots should be added to a `screenshots/` folder in the project directory*
-
 ## Technical Implementation
 
 ### Core Technologies
