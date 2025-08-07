@@ -10,14 +10,17 @@ This security tool demonstrates advanced Python development skills by creating a
 
 ### Main Application Interface
 <img width="650" height="523" alt="Threat_scanner_main" src="https://github.com/user-attachments/assets/d2cca5a6-690f-41f9-aefd-6b100abf84bc" />
+
 *Clean, professional GUI with URL input field and comprehensive results display*
 
 ### Threat Analysis Results
 <img width="650" height="523" alt="Threat_Results" src="https://github.com/user-attachments/assets/cd1b3179-9271-42d8-a2b0-5d1a60fae056" />
+
 *Detailed security metrics including risk scores, threat detection, and domain information*
 
 ### Error Handling
 <img width="650" height="523" alt="Screenshot 2025-08-06 at 19 34 43" src="https://github.com/user-attachments/assets/3c1f0989-ba99-4846-b18e-a59c93d117a9" />
+
 *Robust error handling for invalid URLs, network issues, and API authentication*
 
 *Note: Screenshots should be added to a `screenshots/` folder in the project directory*
